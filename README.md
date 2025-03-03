@@ -10,4 +10,4 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=dark)
 
 ## 📌 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswn3717&layout=compact&theme=dark&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswn3717&layout=compact&theme=tokyonight&langs_count=6)
