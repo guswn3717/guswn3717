@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
 </p>
 
-## 📊 Wak'A'Time <a href="https://wakatime.com/@6b246c30-7715-437a-82c4-56f792c2ac92"><img src="https://wakatime.com/badge/user/6b246c30-7715-437a-82c4-56f792c2ac92.svg" alt="Total time coded since Mar 3 2025" /></a>
+## 📊 W'A'k'A'Time <a href="https://wakatime.com/@6b246c30-7715-437a-82c4-56f792c2ac92"><img src="https://wakatime.com/badge/user/6b246c30-7715-437a-82c4-56f792c2ac92.svg" alt="Total time coded since Mar 3 2025" /></a>
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=tokyonight)
 
 ## 📌 Most Used L'A'ngu'A'ges
