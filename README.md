@@ -7,7 +7,7 @@
 </p>
 
 ## 📊 WakaTime Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=tokyonight)
 
 ## 📌 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswn3717&layout=compact&theme=tokyonight&langs_count=6)
