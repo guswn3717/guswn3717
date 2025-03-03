@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**guswn3717/guswn3717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+</p>
 
-Here are some ideas to get you started:
+## 📊 WakaTime Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswn3717&layout=compact&theme=dark&langs_count=6)
