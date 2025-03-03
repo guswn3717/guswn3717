@@ -9,6 +9,7 @@
 </p>
 
 ## 📊 WakaTime <a href="https://wakatime.com/@6b246c30-7715-437a-82c4-56f792c2ac92"><img src="https://wakatime.com/badge/user/6b246c30-7715-437a-82c4-56f792c2ac92.svg" alt="Total time coded since Mar 3 2025" /></a>
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=dark)
 
 ## 📌 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswn3717&layout=compact&theme=tokyonight&langs_count=6)
