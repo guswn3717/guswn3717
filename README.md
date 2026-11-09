@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
 </p>
 
-## 📊 WakaTime <a href="https://wakatime.com/@6b246c30-7715-437a-82c4-56f792c2ac92"><img src="https://wakatime.com/badge/user/6b246c30-7715-437a-82c4-56f792c2ac92.svg?style=flat-square" alt="Total time coded" /></a>
+## 📊 WakaTime <a href="https://wakatime.com/@guswn3717"><img src="https://wakatime.com/badge/user/9ba5c71c-f80e-455f-87a2-204d154a99f6.svg?style=flat-square" alt="Total time coded" /></a>
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=guswn3717&layout=compact&theme=tokyonight)
 
 ## 📌 Most Used Languages
